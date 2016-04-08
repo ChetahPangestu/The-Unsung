@@ -1,0 +1,49 @@
+Artefacts
+
+Vitalite
+Adds 100 to health.
+
+Impetu
+Starts with DMGBoost. Duration depending on mastery.
+
+Verge
+Starts with RESBoost. Duration depending on mastery.
+
+Fulgore
+Adds 15 to mastery.
+
+Schnell
+Starts with SPDBoost. Duration depending on mastery.
+
+Repertoire
+Starts with 5 AP.
+
+Horde
+When dealing damage, may cause DMGBreak.
+
+Punisher
+When dealing damage, may cause RESBreak.
+
+Judgement
+When dealing damage, may cause SPDBreak.
+
+Absolution
+When dealing damage, may cause DMGBreak/RESBreak/SPDBreak.
+
+Sinister
+Deals 1 damage to self and all foes per tick.
+
+Harbinger
+Recovers 1 point of Health per 2 ticks.
+
+Gambler
+Nullfies of doubles damage recieved.
+
+Bloodthirst
+Same as 'Streak'.
+
+Serendipity
+Recovers 1 AP per turn.
+
+
+
