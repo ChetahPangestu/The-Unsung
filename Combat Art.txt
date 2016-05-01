@@ -1,0 +1,40 @@
+Fundaments
+
+Each character is presented with a set of basic commands that they can use, namely:
+
+> Sword Slash
+	Deals normal damage to a single target. 
+	User gains 1 AP with an additional chance 
+	based on the user's mastery to gain 1 more AP.
+> Rifle Shot
+	Deals normal damage that ignores resistance%.
+	This will use up 1 AP or in this case, round
+	in the clip.
+> Reload
+	Replenishes rifle's clip. This action, however,
+	doubles WT.
+> Anatomy
+	Marks the target as 'anatomized. Holding 'Tab' 
+	will reveal the current health and WT of 
+	anatomized targets.
+> Recuperate
+	Gradually restores health by 1% of its maximum.
+	Recuperating longer means more health will be 
+	restored.
+> First Aid
+	Consumes 1 healing leaf to restores user's health 
+	by 25% of its maximum. Can be accessed by pressing
+	'Left CTRL'.
+ 
+
+Wait Time
+
+Wait Time (WT) is the time it takes for a character to prepare
+to take an action. WT is governed by an attribute called speed and 
+calculated as such: <WT = 100/SPEED>.
+WT can be easily manipulated through the use of 'Recuperate', thus
+you can use this to control the order of actions.
+Needless to say, paying close note to units' WT is vital to 
+achieve success in combat.
+
+
